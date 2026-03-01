@@ -1,0 +1,54 @@
+.heading {
+  width: 100%;
+  font-size: 4rem;
+  text-align: center;
+  background-color: var(--primary-color);
+}
+
+.panel-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
+  margin-top: clamp(2rem, 12vw, 5rem);
+  width: 100%;
+}
+
+.task-panel {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--primary-color);
+  width: 100%;
+  max-width: 70vw;
+  border-radius: 1rem;
+  height: fit-content;
+  max-height: 45vh;
+  overflow-y: scroll;
+  padding: 2.5rem 1.5rem;
+  gap: 5rem;
+}
+
+.no-card {
+  text-align: center;
+  color: var(--accent-color);
+  text-transform: uppercase;
+  user-select: none;
+  pointer-events: none;
+}
+
+.remove-all-btn {
+  background: rgba(215, 132, 47, 0.5);
+  border-radius: 0.25rem;
+  padding: 0.25rem;
+  border: 0;
+  color: black;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.remove-all-btn:hover {
+  cursor: pointer;
+  text-decoration: underline;
+  text-decoration-color: var(--highlight-color);
+}

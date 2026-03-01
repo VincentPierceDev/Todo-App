@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "A3EHQF/YXxg=",
+  "success": true,
+  "projectFilePath": "E:\\Custom\\VS Projects\\WebApps\\NetTestProject\\NetTestProject\\NetTestProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\10.0.3\\microsoft.aspnetcore.diagnostics.entityframeworkcore.10.0.3.nupkg.sha512",
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.entityframeworkcore\\10.0.3\\microsoft.entityframeworkcore.10.0.3.nupkg.sha512",
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\10.0.3\\microsoft.entityframeworkcore.abstractions.10.0.3.nupkg.sha512",
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\10.0.3\\microsoft.entityframeworkcore.analyzers.10.0.3.nupkg.sha512",
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\10.0.3\\microsoft.entityframeworkcore.inmemory.10.0.3.nupkg.sha512",
+    "C:\\Users\\recre\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\10.0.3\\microsoft.entityframeworkcore.relational.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
